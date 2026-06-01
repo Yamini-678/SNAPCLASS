@@ -170,7 +170,7 @@ http://localhost:8501
 
 ### Login Screen
 
-![Login](images/login.png)
+![Login](images/login1.png)
 
 ### Attendance Dashboard
 
